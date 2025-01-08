@@ -30,6 +30,7 @@ export function Navbar() {
               <div className="ml-10 flex items-baseline space-x-4">
                 <Link to="/" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Home</Link>
                 <Link to="/blogs" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Blogs</Link>
+                <Link to="/net_worth_calculator" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">NetWorth Calculator</Link>
                 <a href="#services" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Services</a>
                 <a href="#insights" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Insights</a>
                 <a href="#about" className="text-gray-800 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">About</a>
